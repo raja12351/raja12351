@@ -1,5 +1,10 @@
+<h1 align="center">Hi 👋, I'm Rajat Singh</h1>
+<h3 align="center">A Passionate Backend Developer From India</h3><br>
+
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+
 # 💫 About Me:
-🌱 I’m currently learning DSA and Backend Development<br>💬 Ask me about Data Structure and Algorithms and SpringBoot<br>📫 How to reach me: rajatsingh12351@gmail.com<br>📫 All My Projects: [I want to see](https://github.com/raja12351?tab=repositories)<br>⚡ Fun fact is I am lazy yet Smart
+🌱 I’m currently learning DSA and Backend Development<br>💬 Ask me about Data Structure and Algorithms and SpringBoot<br>📫 How to reach me: rajatsingh12351@gmail.com<br>📫 All My Projects: [I want to see](https://github.com/raja12351?tab=repositories)<br>⚡ Fun fact is I am Lazy yet Smart
 
 
 ## 🌐 Socials:
