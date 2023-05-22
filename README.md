@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/raja12351]
+- 👨‍💻  [I want to see](https://github.com/shivam-sharma0?tab=repositories)
 
 - 📫 How to reach me **rajatsingh12351@gmail.com**
 
